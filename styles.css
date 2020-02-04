@@ -1,0 +1,21 @@
+.bg1 {
+    background-color: cyan;
+  
+}
+.bg2{
+    background-color: darkkhaki;
+}
+.bg3 {
+    background-color: grey;
+}
+.bgw {
+    background-color: white;
+}
+
+
+.fill {
+    height:100vh;
+}
+.br {
+    border-right: 1px solid #000
+}
