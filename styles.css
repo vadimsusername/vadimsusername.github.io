@@ -19,3 +19,9 @@
 .br {
     border-right: 1px solid #000
 }
+
+.image-overlay {
+    top: auto;
+    background-color: blueviolet;
+    bottom: 10px;
+}
