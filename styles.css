@@ -1,12 +1,12 @@
 .bg1 {
-    background-color: cyan;
+    background-color: #434e52;
   
 }
 .bg2{
-    background-color: darkkhaki;
+    background-color: #ecce6d;
 }
 .bg3 {
-    background-color: grey;
+    background-color: #5b8c85;
 }
 .bgw {
     background-color: white;
@@ -22,6 +22,16 @@
 
 .image-overlay {
     top: auto;
-    background-color: blueviolet;
+    background-color: #b0a160;
     bottom: 10px;
+}
+
+@media only screen and (max-width: 768px){
+    #about-image {
+        width: 80%; 
+        margin-left: 10%;
+        margin-right: 10%;
+        
+      
+    }
 }
